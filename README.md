@@ -22,3 +22,11 @@
 Apri il terminale (o il prompt dei comandi) nella cartella del programma e installa le dipendenze necessarie con un solo comando:
 ```bash
 pip install pypdf python-docx
+
+🖥️ Avvio
+Per avviare l'applicazione, posizionati nella cartella del progetto ed esegui:
+
+Bash
+python docuarchivio.py
+Il programma aprirà automaticamente il browser predefinito all'indirizzo http://127.0.0.1:8765.
+Per chiudere l'applicazione e fermare il server, basta chiudere la finestra del terminale (la "finestra nera").
